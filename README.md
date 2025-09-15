@@ -1,5 +1,5 @@
 # 💫 About Me:
-I live in Southern Oregon, and looking to start my career in Full Stack Web Development.<br>I am currently working on a video game search engine web application.<br>I love Photography and Videography. <br>Fun Fact: I was born in Hawaii
+My name is James Boulden, and I currently reside in Southern Oregon. I am an enthusiastic individual with skills in working in both team-based and independent capacities, bringing strong work ethic and excellent team building skills to any setting. I am newly certified and have experience with developing comprehensive web solutions using modern frameworks and languages, utilizing both front-end and back-end skills to create seamless and responsive applications. I have knowledge of debugging and optimizing code to ensure high performance and user satisfaction.
 
 
 ## 🌐 Socials:
